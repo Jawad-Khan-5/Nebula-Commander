@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Hand Commander",
+  "description": "A high-performance 2D space shooter controlled entirely by hand gestures using MediaPipe hand tracking and webcam input.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
